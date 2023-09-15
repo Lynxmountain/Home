@@ -43,7 +43,6 @@
 }
 .topnavheader div a {
     float: left;
-    color: #00f;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -51,7 +50,6 @@
 }
 .topnavheader div img {  
     float: right;
-    color: #00f;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
