@@ -61,11 +61,11 @@ body {
     font-size: 10px;
 }
 .topnavfooter a.active {
-    color: rgb(0,150,255);
+    color: rgb(0,50,255);
 }
 .topnavfooter a:hover {
-    color: rgb(0,100,255);
+    color: rgb(0,50,200);
 }
 .topnavfooter a.active:hover {
-    color: rgb(0,0,255);
+    color: rgb(0,50,200);
 }
