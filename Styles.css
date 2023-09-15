@@ -48,8 +48,8 @@ body {
     overflow: hidden;
     margin-top: 0px;
     position: absolute;
-    bottom: 0px;
-    width: 100%;
+    bottom: 0%;
+    width:100%
 }
 .topnavfooter a {
     position: relative;
