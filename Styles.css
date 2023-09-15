@@ -27,30 +27,35 @@
     color: white;
 }
 .topnavheader {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
     background-color: rgb(0,0,75);
     overflow: hidden;
     margin-top: 0px;
     margin-bottom: 0px;
 }
-.topnavheader a {
-    float: left;
-    color: #fff;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 32px;
-    position: relative;
-    top: 25%;
+.topnavheader div.topnavheadertext {
+    align-self: center;
 }
-.topnavheader img {
-    float: right;
-    color: #fff;
+.topnavheader div.topnavheaderimg {
+    align-self: center;
+}
+.topnavheader div a {
+    float: left;
+    color: #00f;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 32px;
-    position: relative;
-    top: 25%;
+}
+.topnavheader div img {  
+    float: right;
+    color: #00f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 32px;
 }
 .topnavheader img.RightAlign {
     float: right;
