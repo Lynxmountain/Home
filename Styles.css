@@ -68,7 +68,7 @@ body {
     background-color: rgb(0,0,75);
     overflow: hidden;
     margin-top: 0px;
-    position: absolute;
+    position: relative;
     bottom: 0%;
     width:100%
 }
